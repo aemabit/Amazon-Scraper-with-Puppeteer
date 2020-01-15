@@ -11,6 +11,6 @@ Get basic info a product in amazon
 * Return an object with:
   * Product title
   * Who sell this?
-  * Price,
+  * Price
   * Rating
   * Number of review
